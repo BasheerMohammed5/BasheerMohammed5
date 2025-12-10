@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#1DA1F2;">BASHEER MOHAMMED</span></h1>
-<h3 align="center">🚀 Passionate .NET Developer | Building modern, scalable, and secure applications</h3>
+<h3 align="center">🚀 Full Stack .NET Developer | Building Scalable APIs & Blazor Apps with Clean Architecture | Passionate about Performance & Quality Code </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=basheermohammed5&label=Profile%20Views&color=0e75b6&style=flat" alt="basheermohammed5" />
